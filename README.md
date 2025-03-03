@@ -118,7 +118,3 @@ Enjoy a classic gaming experience with snake, a TUI-based snake game written in 
 Feel free to reach out to me with any questions, feedback, or collaboration ideas. I'm always open to connecting with fellow enthusiasts and contributors!
 
 **Email:** [imlinuxfanboy@outlook.com](mailto:imlinuxfanboy@outlook.com)
-
----
-
-I hope this version meets your expectations! If you have any other specific details or projects you'd like to add, let me know.
