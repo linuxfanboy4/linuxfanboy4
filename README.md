@@ -1,10 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6F74D&width=435&lines=Hey+Geeks+%F0%9F%A4%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typingpause=1000&color=D6F74D&width=435&lines=Hey+Geeks+%F0%9F%A4%93)](https://git.io/typing-svg)
 
 # Welcome to LinuxFanBoy4's GitHub
 
 ### Second Account of CalestialAshley35
 
 Hello and welcome to my GitHub profile! I'm LinuxFanBoy4, also known as CalestialAshley35 on my main account. This space is dedicated to all my Linux projects, ranging from fun utilities to powerful tools designed to enhance your Linux experience. Dive in, explore, and feel free to contribute to any project that catches your interest. Your feedback and contributions are always appreciated!
+
+### **Favorite Operating System**: Linux 🐧
 
 ## Projects
 
@@ -108,6 +110,76 @@ Enjoy a classic gaming experience with snake, a TUI-based snake game written in 
 - Written in C++ with `ncurses`
 
 **Repository:** [snake](https://github.com/CalestialAshley35/snake.git)
+
+### Txtmax
+
+**Description:**
+Txtmax is a powerful and robust text editor/IDE designed for efficiency and simplicity. Whether you're working on scripts, writing code, or editing files, Txtmax is your ideal companion.
+
+**Features:**
+- Efficient text editing
+- Suitable for scripts and coding
+- Written in Bash
+
+**Repository:** [Txtmax](https://github.com/Calestial2/Txtmax.git)
+
+### Commental
+
+**Description:**
+Commental is a small yet handy utility that removes comments from files. Perfect for cleaning up code or configuration files quickly and easily.
+
+**Features:**
+- Removes comments from files
+- Lightweight and easy to use
+- Written in Bash
+
+**Repository:** [Commental](https://github.com/linuxfanboy4/commental.git)
+
+### URL Shortener
+
+**Description:**
+URL Shortener is a powerful tool for shortening URLs. It is highly functional and built using Flask and Flask SQLAlchemy for easy integration and database management.
+
+**Features:**
+- Shortens URLs efficiently
+- Built with Flask and Flask SQLAlchemy
+
+**Repository:** [URL Shortener](https://github.com/linuxfanboy4/url-shortener.git)
+
+### Tic-Tac-Toe
+
+**Description:**
+Tic-Tac-Toe is a fully functional web-based game where players can enjoy a classic Tic-Tac-Toe experience. Built with Flask, it's perfect for quick gaming fun.
+
+**Features:**
+- Fully functional Tic-Tac-Toe game
+- Built with Flask
+
+**Repository:** [Tic-Tac-Toe](https://github.com/linuxfanboy4/tic-tac-toe.git)
+
+### lcalc
+
+**Description:**
+lcalc is a powerful calculator tool that supports basic arithmetic, algebra, and geometry calculations. Whether you're solving equations or tackling geometric problems, lcalc has you covered.
+
+**Features:**
+- Supports basic arithmetic (+, -, ÷, ×)
+- Includes algebra and geometry functions
+- Written in Python
+
+**Repository:** [lcalc](https://github.com/linuxfanboy4/lcalc.git)
+
+### Libfle
+
+**Description:**
+Libfle is a comprehensive C file I/O library designed to simplify working with files. It offers powerful tools and utilities for seamless file operations.
+
+**Features:**
+- Comprehensive file I/O functionality
+- Simplifies file manipulation tasks
+- Written in C
+
+**Repository:** [Libfle](https://github.com/linuxfanboy4/libfile.git)
 
 ## GitHub Stats
 
