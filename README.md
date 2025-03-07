@@ -1,12 +1,10 @@
-[![Typing SVG](https://readme-typingpause=1000&color=D6F74D&width=435&lines=Hey+Geeks+%F0%9F%A4%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6F74D&width=435&lines=Hey+Geeks+%F0%9F%A4%93)](https://git.io/typing-svg)
 
 # Welcome to LinuxFanBoy4's GitHub
 
 ### Second Account of CalestialAshley35
 
 Hello and welcome to my GitHub profile! I'm LinuxFanBoy4, also known as CalestialAshley35 on my main account. This space is dedicated to all my Linux projects, ranging from fun utilities to powerful tools designed to enhance your Linux experience. Dive in, explore, and feel free to contribute to any project that catches your interest. Your feedback and contributions are always appreciated!
-
-### **Favorite Operating System**: Linux 🐧
 
 ## Projects
 
